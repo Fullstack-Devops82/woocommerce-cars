@@ -1,0 +1,19 @@
+[15-May-2018 09:40:58 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[15-May-2018 09:56:49 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[15-May-2018 10:29:53 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[15-May-2018 20:07:11 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[15-May-2018 20:17:31 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[15-May-2018 21:36:51 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[18-May-2018 02:18:48 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[25-May-2018 20:50:34 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[14-Jun-2018 23:19:25 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[28-Jun-2018 16:20:27 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[08-Jul-2018 14:37:22 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[17-Jul-2018 14:54:32 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[08-Aug-2018 17:46:42 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[22-Aug-2018 23:31:41 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[22-Aug-2018 23:31:41 UTC] PHP Fatal error:  Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/404.php on line 9
+[11-Sep-2018 14:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcharming_get_header() in /home/icontine/public_html/wp-content/themes/construction/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/icontine/public_html/wp-content/themes/construction/index.php on line 15
